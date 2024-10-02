@@ -53,7 +53,8 @@ These KPIs are vital to understand the overall sales and profitability of the bu
 #### The chart depicting units sold per product offers insights into product popularity. For instance:
 - Smartphones lead with 1.18K units sold, followed by Sneakers at 0.9K units.
 - Action Figures and Blenders sold the least number of units, indicating potential areas for product promotion or improvement.
-![Total sales by product](https://github.com/user-attachments/assets/df67ce16-9065-4744-8a93-89ce80f5061a)
+![Unit sold by people](https://github.com/user-attachments/assets/d99dc071-46ad-4784-99f4-ac3a7c49bbd6)
+
 
 2. ###  Total Sales by Product
 - Sneakers dominated sales revenue with ₹31.96L, closely followed by Smartphones with ₹23.50L.
