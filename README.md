@@ -23,4 +23,8 @@ These KPIs are vital to understand the overall sales and profitability of the bu
 1. ### Units Sold by Product
 #### The chart depicting units sold per product offers insights into product popularity. For instance:
 - Smartphones lead with 1.18K units sold, followed by Sneakers at 0.9K units.
-- Action Figures and Blenders sold the least number of units, indicating potential areas for product promotion or improvement.
+- Action Figures and Blenders sold the least number of units, indicating potential areas for product promotion or improve
+![Total sales by product](https://github.com/user-attachments/assets/df67ce16-9065-4744-8a93-89ce80f5061a)
+ment.
+
+
