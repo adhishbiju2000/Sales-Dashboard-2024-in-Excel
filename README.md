@@ -1,10 +1,8 @@
 # Sales Dashboard 2024 - Detailed Report
-#
-![Dashboard full Image](https://github.com/user-attachments/assets/3cc45344-64db-4463-9b6a-3aed037110ad)
-
-#
 ## Overview
 The Sales Dashboard 2024 provides an in-depth analysis of sales performance for the year, offering key insights into different areas of business, including regional sales, product performance, and individual salesperson contributions. The dashboard is designed to help stakeholders make informed business decisions by visualizing crucial sales data in a simplified and interactive manner.
+
+![Dashboard full Image](https://github.com/user-attachments/assets/3cc45344-64db-4463-9b6a-3aed037110ad)
 
 ## Objectives
 The primary goal of the Sales Dashboard is to provide a comprehensive view of the following:
