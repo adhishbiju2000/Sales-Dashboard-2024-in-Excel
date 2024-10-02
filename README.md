@@ -6,7 +6,7 @@ The Sales Dashboard 2024 provides an in-depth analysis of sales performance for 
 ## Objectives
 The primary goal of the Sales Dashboard is to provide a comprehensive view of the following:
 
-Total Sales, Average Sales, Units Sold, and Profit – Key performance indicators (KPIs) to understand the overall financial performance.
+- Total Sales, Average Sales, Units Sold, and Profit – Key performance indicators (KPIs) to understand the overall financial performance.
 Units Sold by Product – To highlight how each product is performing in terms of units sold.
 Total Sales by Product – To identify the revenue contribution of each product and spot the top-selling items.
 Total Sales by Region – To determine which geographical regions are contributing most to the sales.
