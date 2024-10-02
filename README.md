@@ -19,18 +19,19 @@ The primary goal of the Sales Dashboard is to provide a comprehensive view of th
 
 #### Excel Visualization
 
-Mastered Excel’s Pivot Charts and Slicers to create dynamic, interactive dashboards.
+- Mastered Excel’s Pivot Charts and Slicers to create dynamic, interactive dashboards.
 
 #### Sales Metrics Analysis
 
 - Gained insights into key metrics like Total Sales, Average Sales, Units Sold, and Profit.
-Business Decision-Making
+
+#### Business Decision-Making
 
 - Learned how data insights can drive decisions on product focus, regional strategies, and sales team management.
 
 #### Reporting & Presentation
 
-Developed strong reporting skills, presenting insights through a visually compelling dashboard.
+- Developed strong reporting skills, presenting insights through a visually compelling dashboard.
 
 #### Hands-on Data Analytics
 
