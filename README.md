@@ -3,6 +3,10 @@
 The Sales Dashboard 2024 provides an in-depth analysis of sales performance for the year, offering key insights into different areas of business, including regional sales, product performance, and individual salesperson contributions. The dashboard is designed to help stakeholders make informed business decisions by visualizing crucial sales data in a simplified and interactive manner.
 
 ![Dashboard full Image](https://github.com/user-attachments/assets/3cc45344-64db-4463-9b6a-3aed037110ad)
+#
+![Dashoard full image in xcel](https://github.com/user-attachments/assets/f92739a8-42e8-4494-b15c-e00863dc3f59)
+
+
 
 ## Objectives
 The primary goal of the Sales Dashboard is to provide a comprehensive view of the following:
@@ -69,19 +73,19 @@ These KPIs are vital to understand the overall sales and profitability of the bu
 ![Total sales by sales person](https://github.com/user-attachments/assets/73d55934-2faf-4a09-a345-a46667dd1293)
 
 ## Tools Used
-####This project was built using:
+#### This project was built using:
 
 1. Microsoft Excel: for data cleaning, analysis, and visualization
 2. Pivot Tables and Charts: to aggregate and display the data
 3. Data Cleaning: Preprocessing the raw sales data to ensure accuracy and remove any inconsistencies.
 4. Visualization Techniques: Using Excel’s charting capabilities to present sales data in a user-friendly, interactive format.
 
-## Conclusion
-The Sales Dashboard 2024 provides a clear and concise view of key business metrics. It identifies strengths such as high-performing regions and products while also highlighting areas needing improvement, such as underperforming products and salespersons. This actionable data enables business leaders to strategize effectively for the coming year.
-
 ## Future Scope
 - Integration with Power BI: Enhance the visualization capabilities by moving the dashboard to Power BI for better interaction and drill-down capabilities.
 - Machine Learning Predictions: Implement a predictive model to forecast sales trends based on historical data.
 - Automated Reporting: Use tools like Python to automate data extraction and dashboard updating processes, making it a dynamic, real-time reporting tool.
+
+## Conclusion
+The Sales Dashboard 2024 provides a clear and concise view of key business metrics. It identifies strengths such as high-performing regions and products while also highlighting areas needing improvement, such as underperforming products and salespersons. This actionable data enables business leaders to strategize effectively for the coming year.
 
 
