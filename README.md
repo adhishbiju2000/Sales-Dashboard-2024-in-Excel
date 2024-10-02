@@ -17,8 +17,8 @@ The primary goal of the Sales Dashboard is to provide a comprehensive view of th
 5. Total Sales by Salesperson – To evaluate individual sales performance and identify top performers.
 
 ## Project Learning
-#### Data Cleaning & Processing:
-Improved skills in data cleaning and organizing using Excel, ensuring data accuracy for analysis.
+#### Data Cleaning & Processing
+- Improved skills in data cleaning and organizing using Excel, ensuring data accuracy for analysis.
 
 #### Excel Visualization
 
