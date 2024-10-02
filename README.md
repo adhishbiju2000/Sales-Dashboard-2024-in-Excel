@@ -47,7 +47,6 @@ The dashboard includes several KPIs that give a snapshot of the business's perfo
 - Average Sales: ₹2,58,890
 - Units Sold: 4,705
 - Profit: ₹38,34,400
-#
 These KPIs are vital to understand the overall sales and profitability of the business in 2024.
 ## Data Insights
 1. ### Units Sold by Product
