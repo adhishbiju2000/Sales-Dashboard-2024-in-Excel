@@ -5,11 +5,6 @@ The Sales Dashboard 2024 provides an in-depth analysis of sales performance for 
 ![Dashboard full Image](https://github.com/user-attachments/assets/3cc45344-64db-4463-9b6a-3aed037110ad)
 #
 ![Dashoard full image in xcel](https://github.com/user-attachments/assets/f92739a8-42e8-4494-b15c-e00863dc3f59)
-![Capture1](https://github.com/user-attachments/assets/25e97290-ea9e-4623-84dd-39e7654eb9fa)
-![Capture2](https://github.com/user-attachments/assets/1a5ab48e-385c-457f-8e15-76fcf091b0a8)
-
-
-
 
 ## Objectives
 The primary goal of the Sales Dashboard is to provide a comprehensive view of the following:
@@ -49,6 +44,8 @@ The dashboard includes several KPIs that give a snapshot of the business's perfo
 - Average Sales: ₹2,58,890
 - Units Sold: 4,705
 - Profit: ₹38,34,400
+![Capture1](https://github.com/user-attachments/assets/25e97290-ea9e-4623-84dd-39e7654eb9fa)
+![Capture2](https://github.com/user-attachments/assets/1a5ab48e-385c-457f-8e15-76fcf091b0a8)
 
 These KPIs are vital to understand the overall sales and profitability of the business in 2024.
 ## Data Insights
