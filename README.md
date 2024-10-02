@@ -20,7 +20,7 @@ The dashboard includes several KPIs that give a snapshot of the business's perfo
 #
 These KPIs are vital to understand the overall sales and profitability of the business in 2024.
 ## Data Insights
-### Units Sold by Product
+1. ### Units Sold by Product
 #### The chart depicting units sold per product offers insights into product popularity. For instance:
 - Smartphones lead with 1.18K units sold, followed by Sneakers at 0.9K units.
 - Action Figures and Blenders sold the least number of units, indicating potential areas for product promotion or improvement.
